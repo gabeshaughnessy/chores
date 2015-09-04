@@ -7,7 +7,9 @@ They can be connected to people - assigned to people as well as completed by peo
 Chores can be organized by day and repeat daily, weekly, monthly and yearly.
 Chores can be given points.
 You can add chores from the front end, '+' with options to give it a title, description and tag it.
-Chore dashboard gives you a high-level overview with tabbed sections for users, as well as taxonomy navigation and a view of chore completion status. Meant to be displayed on a tablet or tv screen in a central location.
+Choreboard gives you a high-level overview with tabbed sections for users, as well as taxonomy navigation and a view of chore completion status. Meant to be displayed on a tablet or tv screen in a central location.
+
+Choreboards can be themed and even customized. Fun animations and easy-to-use interface make it a pleasure for kids and adults to complete their chores, earn points and cash in on their rewards!
 
 ### Actions
 User
